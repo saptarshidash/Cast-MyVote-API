@@ -1,0 +1,4 @@
+uvicorn~=0.12.2
+fastapi~=0.63.0
+web3~=5.16.0
+pydantic~=1.7.3
